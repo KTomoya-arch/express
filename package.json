@@ -20,6 +20,7 @@
   "homepage": "https://github.com/KTomoya-arch/express#readme",
   "dependencies": {
     "express": "^4.18.2",
+    "express-validator": "^7.0.1",
     "nodemon": "^2.0.22"
   }
 }
